@@ -1894,6 +1894,7 @@ PRODUCT_PACKAGES += \
     IconShapeOverlay \
     NotchOverlay \
     SensorTestTool \
+    PowerOffAlarm \
     TimeService \
     com.qualcomm.qti.gpudrivers.sm6150.api30 \
     com.qualcomm.qti.improvetouch.service \
